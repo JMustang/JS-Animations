@@ -1,3 +1,3 @@
 # JS-Animations
 ### a website with animation made in js,
-### using the [GSAP](https://github.com/JMustang/Responsive-Website.git) library.
+### using the [GSAP](https://cdnjs.com/libraries/gsap) library.
